@@ -1,0 +1,28 @@
+
+
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.top{
+    
+    background-color: #F48484;
+}
+.middle{
+background-color: yellow;
+height: 200px;
+width: 200px;
+}
+.bottom{
+    background-color: aquamarine;
+    height: 200px;
+width: 200px;
+
+}
+.pro{
+    text-decoration: underline;
+
+}
+
