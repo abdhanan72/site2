@@ -26,6 +26,16 @@ h3{
 
 .computer{
     border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.game{
+    
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+   
 }
 
 
@@ -38,6 +48,7 @@ h3{
 }
 .middle-container{
 background-color: #FFD4D4;
+padding-top: 20px;
 
 }
 .bottom-container{
@@ -66,7 +77,9 @@ background-color: #FFD4D4;
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
+    line-height: 4;
 }
+
+
 
 
