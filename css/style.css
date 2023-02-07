@@ -2,27 +2,64 @@
 
 body{
     margin: 0;
+    text-align:center ;
+    font-family: "Merriweather",serif
 }
 h1{
-    margin: 0;
-}
-.top{
+    margin-top: 50px auto 0 auto;
+    font-family: "Sacramento",cursive;
+    font-size: 5.625rem;
+    color: #f6f578;
     
-    background-color: #F48484;
 }
-.middle{
-background-color: yellow;
-height: 200px;
-width: 200px;
+
+h2{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    color: #D61355;
+    font-weight: normal;
 }
-.bottom{
-    background-color: aquamarine;
-    height: 200px;
-width: 200px;
+h3{
+    color: #D61355;
+    font-family: "Montserrat",sans-serif;
+}
+
+.computer{
+    border-radius: 50%;
+}
+
+
+.top-container{
+    
+    background-color: #F55050;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+background-color: #FFD4D4;
+
+}
+.bottom-container{
+    background-color: #FFD4D4;
+  
 
 }
 .pro{
     text-decoration: underline;
 
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+   bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    
 }
 
